@@ -8,3 +8,5 @@
     header('Location: login.html');
   }
 ?>
+
+<?php include'footer.inc'; ?>

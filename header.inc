@@ -7,5 +7,4 @@
 </head>
 <body>
 <header>
-    <h1>Please login below.</h1>
-</header>
+    <h1>Welcome.
